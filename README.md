@@ -13,4 +13,5 @@ Recentemente terminei um projeto acadêmico de criar um experiência VR/AR para 
 * 🧠  Estou aprendendo Python, SQL, Lógica de programação, Pandas, Estrutura de Dados.
 * 🤝  Estou aberto a colaborar em projetos envolvendo Back-End, Dados e Projetos com Python.
 * ⚡  Curso de Inglês: In Touch - Itaqui RS (Basico e Intermediario: Janeiro de 2016 até Dezembro de 2018)
-* 🚀  Meu trabalho mais recente foi em um Projeto AR/VR para a divulgação da Antonio Meneghetti Faculdade.
+* 🚀  Meu trabalho mais recente foi em um Projeto AR/VR para a divulgação da Antonio Meneghetti Faculdade: https://rmpq0.zappar.io/1857727056221746213/v31/
+  
