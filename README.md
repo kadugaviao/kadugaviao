@@ -1,17 +1,42 @@
+# 👋 Hi, I’m Kadu Brum Gavião  
 
-Oi 👋 Meu nome é Kadu Brum Gavião
-=================================
+🎯 **Backend Developer | Python | Django | SQL | MongoDB**  
+💡 Passionate about building scalable backend solutions and clean, maintainable code.  
+📍 Based in Rio Grande do Sul, Brazil  
 
-Estudante de Sistemas de Informação | Python | SQL | Dados 
-----------------------------------------------------------
+---
 
-Atualmente sou estudante no segundo semestre do curso de Sistemas de Informação na faculdade Antonio Meneghetti, possuo foco em back-end(Python) e bancos de dados(SQL). Em busca de oportunidades para expandir meus conhecimentos em novos ambientes. 
-Recentemente terminei um projeto acadêmico de criar um experiência VR/AR para a divulgação da faculdade.
+## 🔧 Tech Stack
+- **Languages**: Python, SQL, JavaScript  
+- **Frameworks**: Django, Flask  
+- **Databases**: PostgreSQL, MongoDB  
+- **Tools**: Git, Docker, Linux  
+- **Other**: REST APIs, Unit Testing, HTML/CSS, Arduino (electronics & IoT basics)  
 
-* 🌍  Estou morando no Recanto Maestro, Rio Grande do Sul
-* ✉️  Você pode me contatar em [kadubgaviao@gmail.com](mailto:kadubgaviao@gmail.com)
-* 🧠  Possuo conhecimento em Python, SQL, Lógica de programação, Pandas e Estrutura de Dados.
-* 🤝  Estou aberto a colaborar em projetos envolvendo Back-End, Dados e Projetos com Python.
-* ⚡  Curso de Inglês: In Touch - Itaqui RS (Basico e Intermediario: Janeiro de 2016 até Dezembro de 2018)
-* 🚀  Meu trabalho mais recente foi em um Projeto AR/VR para a divulgação da Antonio Meneghetti Faculdade: https://rmpq0.zappar.io/1857727056221746213/v31/
-  
+---
+
+## 📂 Highlighted Projects
+- [**Backend API with Django**](#): RESTful API with authentication and PostgreSQL  
+- [**Jovem e Tecnologia Project**](#): Educational initiative where I taught students **basic computing, Python programming, web development (HTML/CSS)**, and an introduction to **Arduino/IoT** concepts  
+- [**AR/VR AMF**](https://rmpq0.zappar.io/1857727056221746213/v31/): University project for immersive AR/VR experience  
+
+---
+
+## 🌱 Currently
+- 🎓 **BSc in Information Systems** @ Antonio Meneghetti Faculdade (3rd semester)  
+- 💻 Backend Intern @ **TecnoAMF** (Python, Django, Git)  
+- 👨‍🏫 Former Technology Instructor @ **Jovem e Tecnologia** project  
+  *(Python, Web Development, Arduino, digital literacy for young students)*  
+
+---
+
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kadugaviao&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kadugaviao&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contact
+- 🌐 [LinkedIn](https://www.linkedin.com/in/kadugaviao/)  
+- 🐙 [GitHub](https://github.com/kadugaviao)  
+- 📧 Email: **kadubgaviao@gmail.com**
