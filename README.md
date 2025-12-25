@@ -18,7 +18,8 @@
 ## 📂 Highlighted Projects
 - [**Backend API with Django**](#): RESTful API with authentication and PostgreSQL  
 - [**Jovem e Tecnologia Project**](#): Educational initiative where I taught students **basic computing, Python programming, web development (HTML/CSS)**, and an introduction to **Arduino/IoT** concepts  
-- [**AR/VR AMF**](https://rmpq0.zappar.io/1857727056221746213/v31/): University project for immersive AR/VR experience  
+- [**GIF Maker CLI**](https://github.com/kadugaviao/gif_maker_cli): Command-line tool to generate GIFs from images/videos using Python  
+- [**AR/VR AMF**](https://rmpq0.zappar.io/1857727056221746213/v31/): University project for immersive AR/VR experience
 
 ---
 
