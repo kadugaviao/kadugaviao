@@ -24,7 +24,7 @@
 ---
 
 ## 🌱 Currently
-- 🎓 **BSc in Information Systems** @ Antonio Meneghetti Faculdade (3rd semester)  
+- 🎓 **BSc in Information Systems** @ Antonio Meneghetti Faculdade (4rd semester)  
 - 💻 Backend Intern @ **TecnoAMF** (Python, Django, Git)  
 - 👨‍🏫 Former Technology Instructor @ **Jovem e Tecnologia** project  
   *(Python, Web Development, Arduino, digital literacy for young students)*  
