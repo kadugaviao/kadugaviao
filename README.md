@@ -1,33 +1,34 @@
 # 👋 Hi, I’m Kadu Brum Gavião  
 
-🎯 **Backend Developer | Python | Django | SQL | MongoDB**  
-💡 Passionate about building scalable backend solutions and clean, maintainable code.  
-📍 Based in Rio Grande do Sul, Brazil  
+🎯 **Backend Developer | Python | Django | Java | Spring Boot | TypeScript**  
+💡 Passionate about building scalable backend solutions, architecture, and clean, maintainable code.  
+📍 Based in Recanto Maestro, Rio Grande do Sul, Brazil  
 
 ---
 
 ## 🔧 Tech Stack
-- **Languages**: Python, SQL, JavaScript  
-- **Frameworks**: Django, Flask  
-- **Databases**: PostgreSQL, MongoDB  
-- **Tools**: Git, Docker, Linux  
-- **Other**: REST APIs, Unit Testing, HTML/CSS, Arduino (electronics & IoT basics)  
+- **Languages**: Python, Java, PHP, JavaScript, TypeScript, SQL  
+- **Frameworks**: Django, Spring Boot, Laravel, React  
+- **Databases**: PostgreSQL, MySQL, SQL Server  
+- **Tools**: Git, GitHub, Docker, Linux, Proxmox, Postman, Figma, n8n  
+- **Other**: REST APIs, HTML/CSS, Arduino (electronics & IoT basics)  
 
 ---
 
-## 📂 Highlighted Projects
-- [**Backend API with Django**](#): RESTful API with authentication and PostgreSQL  
-- [**Jovem e Tecnologia Project**](#): Educational initiative where I taught students **basic computing, Python programming, web development (HTML/CSS)**, and an introduction to **Arduino/IoT** concepts  
-- [**GIF Maker CLI**](https://github.com/kadugaviao/gif_maker_cli): Command-line tool to generate GIFs from images/videos using Python  
-- [**AR/VR AMF**](https://rmpq0.zappar.io/1857727056221746213/v31/): University project for immersive AR/VR experience
+## 📂 Recent Projects
+- [**Animal Rescue & Adoption System**](https://github.com/kadugaviao/animal_rescue_adopt_system): Management system designed for animal rescues and adoptions.
+- [**Help Desk System**](https://github.com/kadugaviao/help_desk_system): Platform built for managing support tickets and service requests.
+- [**Appointment Scheduler**](https://github.com/kadugaviao/agendador-horarios-java): Appointment scheduling application developed in Java.
+- [**CAMAMF**](#): Academic attendance control system using computer vision (**Python, InsightFace, SCRFD**).  
+- [**Home Lab & Proxmox Server**](#): Local server configuration for virtualization, app deployment, and infrastructure studies (**Linux, Proxmox, Docker, Debian**). 
+- [**Tourism Operational Management System**](#): Web platform (ERP) for tourism operations. Currently enrolled in the Sebrae Supernova initiative.
 
 ---
 
 ## 🌱 Currently
-- 🎓 **BSc in Information Systems** @ Antonio Meneghetti Faculdade (4rd semester)  
-- 💻 Backend Intern @ **TecnoAMF** (Python, Django, Git)  
+- 🎓 **BSc in Information Systems** @ Antonio Meneghetti Faculdade (AMF)  
+- 💻 Former Backend Developer @ **TecnoAMF**
 - 👨‍🏫 Former Technology Instructor @ **Jovem e Tecnologia** project  
-  *(Python, Web Development, Arduino, digital literacy for young students)*  
 
 ---
 
