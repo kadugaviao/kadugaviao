@@ -16,12 +16,12 @@
 ---
 
 ## 📂 Recent Projects
+- [**Owlbear Rodeo Handouts**](https://github.com/kadugaviao/handouts_owlbear_extension): Virtual tabletop extension with real-time synchronization for images and notes (React, TypeScript, Vitest).
 - [**Animal Rescue & Adoption System**](https://github.com/kadugaviao/animal_rescue_adopt_system): Management system designed for animal rescues and adoptions.
 - [**Help Desk System**](https://github.com/kadugaviao/help_desk_system): Platform built for managing support tickets and service requests.
 - [**Appointment Scheduler**](https://github.com/kadugaviao/agendador-horarios-java): Appointment scheduling application developed in Java.
 - [**CAMAMF**](#): Academic attendance control system using computer vision (**Python, InsightFace, SCRFD**).  
-- [**Home Lab & Proxmox Server**](#): Local server configuration for virtualization, app deployment, and infrastructure studies (**Linux, Proxmox, Docker, Debian**). 
-- [**Tourism Operational Management System**](#): Web platform (ERP) for tourism operations. Currently enrolled in the Sebrae Supernova initiative.
+- [**Home Lab & Proxmox Server**](#): Local server configuration for virtualization, app deployment, and infrastructure studies (**Linux, Proxmox, Docker, Debian**).  
 
 ---
 
