@@ -16,7 +16,7 @@ pipelines, augmented reality on the web, and tooling for AI coding agents.
 
 ## 🛠️ What I'm building
 
-**[Presença em Sala](https://github.com/kadugaviao/computer_vision_class_presence)**
+**[Computer Vision Presence](https://github.com/kadugaviao/computer_vision_class_presence)**
 Face-recognition attendance: the classroom camera recognizes enrolled students and marks them present live
 on the teacher's panel. A from-scratch rewrite of CAMAMF, the attendance system I worked on that runs in
 production at my university. Every runtime choice is benchmarked (ONNX Runtime vs OpenVINO, CPU vs Intel iGPU,
