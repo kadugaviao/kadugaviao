@@ -3,6 +3,7 @@
 # Hi, I'm Kadu 👋
 
 **Backend developer** · Java & Spring Boot · Python & Django
+
 Information Systems student at AMF · Rio Grande do Sul, Brazil 🇧🇷
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-kadugaviao-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kadugaviao/)
